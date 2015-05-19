@@ -355,7 +355,7 @@ hr {
 	font-size: 25px;}
 	@media screen and (max-width: 520px) {
       .tile.tile-64 .tile-inner {
-        font-size: 10px; } }
+        font-size: 12px; } }
   .tile.tile-128 .tile-inner {/*王宇歌*/
     color: #f9f6f2;
     background: #edcf72;
@@ -373,7 +373,7 @@ hr {
     }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 10px; } }
+        font-size: 12px; } }
   .tile.tile-512 .tile-inner {/*Tino*/
     color: #f9f6f2;
     background: #edc850;
